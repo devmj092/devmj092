@@ -1,11 +1,11 @@
 ## Hi there!👋, I’m Mujtaba, Passionate about AI and Machine Learning
-I’ve built impactful solutions to tackle complex data challenges.
+
 
 <b>🚀 About Me:</b><br><br>
 <b>Machine Learning Enthusiast:</b> I've developed models for predictive and classification tasks, working on projects that span real-world applications in customer churn, traffic accident severity, and more.<br><br>
-<b>Hands-On Problem Solver: </b><br><br>
-My GitHub repositories feature detailed Notebooks, showcasing end-to-end ML pipelines and techniques I’ve mastered.<br>
-<b>Interactive Project Deployer: </b><br><br>
+<b>Hands-On Problem Solver: </b>
+My GitHub repositories feature detailed Notebooks, showcasing end-to-end ML pipelines and techniques I’ve mastered.<br><br>
+<b>Interactive Project Deployer: </b>
 I've taken my projects a step further by deploying a live app on Streamlit, allowing anyone to explore model predictions dynamically.
 
 <b>🛠️ Skills Snapshot:</b><br><br>
