@@ -1,8 +1,8 @@
-## Hi there!👋, I’m Mujtaba, Passionate about AI and Machine Learning
+## Hi there!👋, I’m Mujtaba, Data Scientist & ML Trainer
 
 
 <b>🚀 About Me:</b><br><br>
-<b>Machine Learning Enthusiast:</b> I've developed models for predictive and classification tasks, working on projects that span real-world applications in customer churn, traffic accident severity, and more.<br><br>
+<b>Data Scientist:</b> I've developed models for predictive and classification tasks, working on projects that span real-world applications in customer churn, traffic accident severity, and more.<br><br>
 <b>Hands-On Problem Solver: </b>
 My GitHub repositories feature detailed Notebooks, showcasing end-to-end ML pipelines and techniques I’ve mastered.<br><br>
 <b>Interactive Project Deployer: </b>
